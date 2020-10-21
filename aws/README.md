@@ -2,6 +2,7 @@
 
 Cloud services provider.
 
-## AWS services
-* [Elastic Compute Cloud](ec2.md)
+## Index of AWS services
 * [Elastic Block Storage](ebs.md)
+* [Elastic Compute Cloud](ec2.md)
+* [Elastic Load Balancing](elb.md)
