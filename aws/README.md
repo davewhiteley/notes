@@ -7,3 +7,4 @@ Cloud services provider.
 * [Elastic Block Storage](ebs.md)
 * [Elastic Compute Cloud](ec2.md)
 * [Elastic Load Balancing](elb.md)
+* [Simple Storage Service](s3.md)
