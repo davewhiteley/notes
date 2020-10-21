@@ -18,7 +18,7 @@
         * The community
 * EC2 best practices
     * Treat VM instances as disposable
-    * Immutable Infrastructure - get everything right in the AMI first, don’t rely on shell’ing into an instance to set it up
+    * Immutable Infrastructure - get everything right in the AMI first, don't rely on shell'ing into an instance to set it up
     * Treat logs as streams - always ship them off the host into a log aggregation system
     * Leverage roles - control which AWS services (S3, Dynamo, etc.) can be used from a given instance
     * Automate deployments
