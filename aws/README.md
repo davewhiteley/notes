@@ -1,6 +1,6 @@
 # Amazon Web Services (AWS)
 
-Cloud services provider.
+Cloud services provider
 
 | AWS Service | Category |
 | ----------- | -------- |
@@ -8,6 +8,7 @@ Cloud services provider.
 | [CloudWatch](cloudwatch.md) | Monitoring |
 | [Elastic Block Storage](ebs.md) | Storage |
 | [Elastic Compute Cloud](ec2.md) | Compute |
-| [Elastic Load Balancing](elb.md) | LB |
+| [Elastic Load Balancing](elb.md) | Load balancing |
 | [Lambda](lambda.md) | Compute |
+| [Relational Database Service](rds.md) | Database |
 | [Simple Storage Service](s3.md) | Storage |
