@@ -2,10 +2,12 @@
 
 Cloud services provider.
 
-## Index of AWS services
-* [CloudFront](cloudfront.md)
-* [CloudWatch](cloudwatch.md)
-* [Elastic Block Storage](ebs.md)
-* [Elastic Compute Cloud](ec2.md)
-* [Elastic Load Balancing](elb.md)
-* [Simple Storage Service](s3.md)
+| AWS Service | Category |
+| ----------- | -------- |
+| [CloudFront](cloudfront.md) | CDN |
+| [CloudWatch](cloudwatch.md) | Monitoring |
+| [Elastic Block Storage](ebs.md) | Storage |
+| [Elastic Compute Cloud](ec2.md) | Compute |
+| [Elastic Load Balancing](elb.md) | LB |
+| [Lambda](lambda.md) | Compute |
+| [Simple Storage Service](s3.md) | Storage |
