@@ -12,5 +12,6 @@ Cloud services provider
 | [Elastic Load Balancing](elb.md) | Load balancing |
 | [Glacier](glacier.md) | Storage |
 | [Lambda](lambda.md) | Compute |
+| [Redshift](redshift.md) | Storage |
 | [Relational Database Service](rds.md) | Database |
 | [Simple Storage Service](s3.md) | Storage |
