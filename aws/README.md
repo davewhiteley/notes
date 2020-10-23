@@ -1,3 +1,7 @@
+[Back to home](../README.md)
+
+---
+
 # Amazon Web Services (AWS)
 
 Cloud services provider
@@ -16,3 +20,7 @@ Cloud services provider
 | [Redshift](redshift.md) | Storage |
 | [Relational Database Service](rds.md) | Database |
 | [Simple Storage Service](s3.md) | Storage |
+
+## AWS certifications
+
+* [Cloud Practitioner](certs/cloud-practitioner.md)
