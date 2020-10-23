@@ -4,22 +4,24 @@
 
 # Amazon Web Services (AWS)
 
-Cloud services provider
+AWS is a cloud services provider.
 
-| AWS Service | Category |
+## AWS services
+
+| Service | Category |
 | ----------- | -------- |
-| [CloudFront](cloudfront.md) | CDN |
-| [CloudWatch](cloudwatch.md) | Monitoring |
-| [DynamoDB](dynamodb.md) | Database |
-| [Elastic Beanstalk](elastic-beanstalk.md) | Orchestration |
-| [Elastic Block Storage](ebs.md) | Storage |
-| [Elastic Compute Cloud](ec2.md) | Compute |
-| [Elastic Load Balancing](elb.md) | Load balancing |
-| [Glacier](glacier.md) | Storage |
-| [Lambda](lambda.md) | Compute |
-| [Redshift](redshift.md) | Storage |
-| [Relational Database Service](rds.md) | Database |
-| [Simple Storage Service](s3.md) | Storage |
+| [CloudFront](services/cloudfront.md) | CDN |
+| [CloudWatch](services/cloudwatch.md) | Monitoring |
+| [DynamoDB](services/dynamodb.md) | Database |
+| [Elastic Beanstalk](services/elastic-beanstalk.md) | Orchestration |
+| [Elastic Block Storage](services/ebs.md) | Storage |
+| [Elastic Compute Cloud](services/ec2.md) | Compute |
+| [Elastic Load Balancing](services/elb.md) | Load balancing |
+| [Glacier](services/glacier.md) | Storage |
+| [Lambda](services/lambda.md) | Compute |
+| [Redshift](services/redshift.md) | Storage |
+| [Relational Database Service](services/rds.md) | Database |
+| [Simple Storage Service](services/s3.md) | Storage |
 
 ## AWS certifications
 

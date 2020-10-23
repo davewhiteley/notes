@@ -1,3 +1,7 @@
+[Back to AWS](../README.md)
+
+---
+
 # DynamoDB
 
 NoSQL data store
