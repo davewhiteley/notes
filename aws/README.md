@@ -9,7 +9,7 @@ AWS is a cloud services provider.
 ## AWS services
 
 | Service | Category |
-| ----------- | -------- |
+| ------- | -------- |
 | [CloudFront](services/cloudfront.md) | CDN |
 | [CloudWatch](services/cloudwatch.md) | Monitoring |
 | [DynamoDB](services/dynamodb.md) | Database |
@@ -25,4 +25,4 @@ AWS is a cloud services provider.
 
 ## AWS certifications
 
-* [Cloud Practitioner](certs/cloud-practitioner.md)
+See [Certifications](../certs/README.md)

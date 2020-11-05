@@ -1,4 +1,4 @@
-[Back to AWS](../README.md)
+[Back to Certifications](README.md)
 
 ---
 
