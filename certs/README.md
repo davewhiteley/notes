@@ -4,6 +4,13 @@
 
 # Certifications
 
-## AWS certifications
+## AWS
 
-* [Certified Cloud Practitioner](cloud-practitioner.md)
+| Certification | Level |
+| ------------- | ----- |
+| [Cloud Practitioner](aws-cloud-practitioner.md) | Foundational |
+| Solutions Architect | Associate |
+| SysOps Administrator | Associate |
+| Developer | Associate |
+| Solutions Architect | Professional |
+| DevOps Engineer | Professional |
