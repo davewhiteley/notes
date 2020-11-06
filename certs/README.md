@@ -14,3 +14,7 @@
 | Developer | Associate |
 | Solutions Architect | Professional |
 | DevOps Engineer | Professional |
+
+## Practical DevSecOps
+
+* [Certified DevSecOps Professional](pdso-cdp.md)
