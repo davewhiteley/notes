@@ -2,7 +2,7 @@
 
 ---
 
-# Questions to ask as an interviewer
+# Questions to ask when interviewing a candidate
 
 ## Communication
 
@@ -22,14 +22,19 @@
     * Were you involved from the beginning or did you inherit it?
     * How were requirements gathered? Was there scope creep?
     * How did you solve the relevant problems?
-    * Looking for the "why" of technological choices, more so than the specific techs themselves.
+      * Looking for the "why" of technological choices, more so than the specific techs themselves.
     * Was there Project Management and/or did you self-organize?
     * What, if anything did you learn from that project? Any big takeaways?
 
 ## Specific experience
 
 * Can you explain ___ technology to a novice?
+    * Continuous Integration
     * Containers
+
+## Career goals
+
+* Given unlimited budget and no work constraints, what training would you like to do?
 
 ---
 
@@ -38,3 +43,4 @@
 ## General
 
 * What concerns do you have about me at this stage in the interview?
+* (To team members) If you were to order every manager you've ever had from favorite to least favorite, in what percentile is the current team manager? 10th? 50th? 90th?
