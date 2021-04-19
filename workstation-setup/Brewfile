@@ -2,5 +2,6 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 brew "jq"
+brew "kubernetes-cli", link: false # kubectl
 cask "iterm2"
 cask "lens"
