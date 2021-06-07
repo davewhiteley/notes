@@ -8,3 +8,6 @@ Configuring and maintaining individual machines used for software development an
 
 ## macOS machines
 
+### Homebrew
+
+The Homebrew package manager can be used to programatically install applications and utilities.
