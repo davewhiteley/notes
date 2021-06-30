@@ -3,6 +3,7 @@ tap "homebrew/cask"
 tap "homebrew/core"
 brew "jq"
 brew "kubernetes-cli", link: false # kubectl
+brew "podman"
 cask "brave-browser"
 cask "docker"
 cask "iterm2"
