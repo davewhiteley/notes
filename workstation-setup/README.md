@@ -4,17 +4,23 @@
 
 # Workstation Setup
 
-Configuring and maintaining individual machines used for software development and related tasks.
+Configuring and maintaining individual machines for software development and related tasks.
 
 ## macOS machines
 
 ### Homebrew
 
+Website: https://brew.sh/
+
 The Homebrew package manager can be used to programatically install applications and utilities.
 
-Create a new file at `~/Brewfile` and add items as desired (see: [Brewfile](./Brewfile) for examples).
+#### Getting Started with Homebrew
 
-Install items from your Brewfile by running:
+Homebrew can be installed using the script provided on their home page.
+
+Once installed you may want to begin using **bundles** - manifests of packages to install programatically, as opposed to piecemeal. Create a new file at `~/Brewfile` and add items as desired - see: [Brewfile](./Brewfile) for examples. Note that these are just a starting point - you will likely want to exclude some of these and add others to suit your needs.
+
+#### Install All Packages in Your Brewfile
 
     cd ~
     brew bundle install
@@ -22,7 +28,11 @@ Install items from your Brewfile by running:
     # Or to use a specific file
     brew bundle --file=~/foo/Brewfile
 
-If you've installed new items not yet in your Brewfile, you can write them by running:
+#### Install a Single Package
+
+    brew install foo
+
+#### Dump the Manifest of Installed Packages
 
     cd ~
     brew bundle dump
@@ -30,6 +40,7 @@ If you've installed new items not yet in your Brewfile, you can write them by ru
     # Use the force flag if you don't mind overwriting the old Brewfile
     brew bundle dump --force
 
-If you want to prune old items not present in your Brewfile:
+#### Prune Old Packages Not Present in Your Brewfile
 
-    brew bundle --force cleanup
+    cd ~
+    brew bundle cleanup # Use the --force flag if necessary
