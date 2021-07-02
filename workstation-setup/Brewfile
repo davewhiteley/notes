@@ -8,5 +8,6 @@ cask "brave-browser"
 cask "docker"
 cask "iterm2"
 cask "lens"
+cask "sublime-text" # Latest version, currently 4
 cask "visual-studio-code"
 cask "zoom"
