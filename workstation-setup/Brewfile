@@ -3,6 +3,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 brew "azure-cli"
+brew "gnupg"
 brew "jq"
 brew "kubernetes-cli", link: false # kubectl
 brew "podman"
