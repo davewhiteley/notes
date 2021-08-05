@@ -1,10 +1,12 @@
 tap "adoptopenjdk/openjdk"
+tap "hashicorp/tap"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 brew "azure-cli"
 brew "gnupg"
 brew "jq"
+brew "hashicorp/tap/terraform"
 brew "kubernetes-cli", link: false # kubectl
 brew "podman"
 cask "adoptopenjdk8"
