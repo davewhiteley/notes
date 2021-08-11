@@ -9,7 +9,7 @@ brew "gnupg"
 brew "jq"
 brew "kubernetes-cli", link: false # kubectl
 brew "podman"
-brew "tfenv"
+brew "tfenv" # Terraform version manager
 brew "wget"
 cask "adoptopenjdk8"
 cask "brave-browser"
