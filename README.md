@@ -12,4 +12,5 @@ These mostly exist for my benefit - the act of note taking is helpful for learni
 * [Job interview notes](interviews/README.md)
 * [Certifications](certs/README.md)
 * [CI/CD](ci-cd/README.md)
+* [Vault](vault/README.md)
 * [Workstation Setup](workstation-setup/README.md)
