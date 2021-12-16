@@ -17,6 +17,7 @@ cask "brave-browser"
 cask "docker"
 cask "iterm2"
 cask "lens"
+cask "microsoft-remote-desktop"
 cask "paintbrush"
 cask "sublime-text" # Latest version, currently 4
 cask "visual-studio-code"
