@@ -1,8 +1,5 @@
-tap "adoptopenjdk/openjdk"
 tap "hashicorp/tap"
 tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
 brew "awscli"
 brew "azure-cli"
 brew "unbound"
