@@ -8,7 +8,7 @@ These mostly exist for my benefit - the act of note taking is helpful for learni
 
 ## Categories of Notes
 
-* [AWS](aws/README.md)
+* [Cloud Computing](cloud/README.md)
 * [Job interview notes](interviews/README.md)
 * [Certifications](certs/README.md)
 * [CI/CD](ci-cd/README.md)
