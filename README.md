@@ -2,9 +2,9 @@
 
 Miscellaneous notes on software and technology.
 
-## Why
+## Description
 
-These mostly exist for my benefit - the act of note taking is helpful for learning and understanding complex topics. Plus GitHub offers a free way to backup and access these almost anywhere.
+Notes taken while studying various software and computing topics. I particularly like writing in Markdown, and these are available for reference anywhere with access to GitHub.
 
 ## Categories of Notes
 

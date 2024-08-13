@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cloud/azure/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cloud/azure/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cloud/azure/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cloud/azure/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "2149332c97b038a2",
   "lastOpenFiles": [
+    "interviews/README.md",
+    "README.md",
+    "cloud/azure/README.md",
     "workstation-setup/README.md",
     "cloud/aws/README.md",
-    "cloud/azure/README.md",
     "certs/aws-cloud-practitioner.md"
   ]
 }
