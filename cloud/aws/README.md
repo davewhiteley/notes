@@ -25,4 +25,4 @@ AWS is a cloud services provider.
 
 ## AWS certifications
 
-See [Certifications](../certs/README.md)
+See [Certifications](../../certs/README.md)
