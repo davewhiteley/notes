@@ -146,13 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2149332c97b038a2",
+  "active": "4e557eeeb86ab028",
   "lastOpenFiles": [
-    "interviews/README.md",
-    "README.md",
-    "cloud/azure/README.md",
+    "tools/vault.md",
+    "tools/vault/vault.md",
+    "tools/vault/README.md",
+    "tools/vault",
+    "tools/README.md",
+    "tools",
+    "untitled folder",
     "workstation-setup/README.md",
-    "cloud/aws/README.md",
-    "certs/aws-cloud-practitioner.md"
+    "vault/README.md",
+    "certs/aws-cloud-practitioner.md",
+    "certs/pdso-cdp.md",
+    "ci-cd/README.md",
+    "README.md",
+    "interviews/README.md",
+    "cloud/azure/README.md",
+    "cloud/aws/README.md"
   ]
 }
