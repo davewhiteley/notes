@@ -1,10 +1,6 @@
 # notes
 
-Miscellaneous notes on software and technology.
-
-## Description
-
-Notes taken while studying various software and computing topics. I particularly like writing in Markdown, and these are available for reference anywhere with access to GitHub.
+Notes taken while studying various software and computing topics.
 
 ## Categories of Notes
 
