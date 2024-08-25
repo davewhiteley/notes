@@ -44,3 +44,11 @@ Once installed you may want to begin using **bundles** - manifests of packages t
 
     cd ~
     brew bundle cleanup # Use the --force flag if necessary
+
+### Git configuration
+
+With `git` installed you can set the initial configuration for your commit messages.
+
+    git config --global user.name "David Whiteley"
+    git config --global user.email "username@example.com"
+
