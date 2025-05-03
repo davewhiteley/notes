@@ -12,7 +12,7 @@ This is the introductory level certification for AWS - meant generally for manag
 
 Despite being a mostly non-technical exam I think that it is valuable for anyone who is just getting started with cloud technologies, including people in technical roles. It requires you to develop an understanding of the services provided by AWS and gives you a foundational introduction to cloud computing concepts.
 
-Having some experience using AWS (at work, in a personal account, etc.) would be nice but not necessary. You should probably dedicate at least 5 hours to studying, and preferrably double that or more. Using a third party set of instruction materials (video course, study guide, etc.) is a good way to get a structured set of topics to focus on. The majority of test question materials cover things that are freely available in the official AWS service documentations.
+Having some experience using AWS (at work, in a personal account, etc.) would be nice but not necessary. You should probably dedicate at least 5 hours to studying, and preferably double that or more. Using a third party set of instruction materials (video course, study guide, etc.) is a good way to get a structured set of topics to focus on. The majority of test question materials cover things that are freely available in the official AWS service documentations.
 
 ## Exam topics
 
